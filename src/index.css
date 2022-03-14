@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.paginatedNav ul{
+  display: flex;
+  justify-content: center;
+}
+.paginatedNav ul li{
+  padding: 4px 6px;
+  margin: 0 4px;
+  border-radius: 4px;
+  font-size: 1.2em;
+  border: 1px solid #eee;
+  font-weight: 400;
+}
+.paginatedNav ul li.selected, .paginatedNav ul li:hover{
+  background:#ef345b;
+  color: white;
+
+}
