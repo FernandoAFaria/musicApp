@@ -10,6 +10,6 @@ Then, display the albums on a React page. For each album you will need to displa
 
  Feel free to be creative on how you display and style the albums. You may want to include any extra metadata that you find useful. 
 
- ##Technologies Used
+ ## Technologies Used
  * React
  * Tailwind - I chose this only because I have been using this often at my current position on new projects
